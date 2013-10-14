@@ -20,7 +20,7 @@
 - Bien à toi, 
 
 ## Formules pour relation amicale
-- Formule de contexte + Mélioratif 
+- Formule de contexte + Mélioratif (exemple : Belle journée à toi) 
 - En amitié, 
 - Tiens toi fort !
 - Qu'est ce que tu bois ?
