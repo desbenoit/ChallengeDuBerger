@@ -1,4 +1,21 @@
-ChallengeDuBerger
+Challenge du Berger
 =================
 
 Améliorer nos relations en variant nos signatures emails
+
+
+## Sommaire
+1. Présentation
+2. Trouver des signatures
+3. Contribuer
+
+## Présentation
+Le challenge du Berger est un « jeu » pour améliorer nos échanges par email. 
+Le principe est de bannir tout « cordialement » de nos signatures automatiques et de les remplacer par une nouvelle formule adaptée à chaque personne, à chaque contexte. 
+Pour plus d'information : [le billet du blog sur ce sujet](http://blog.thinkinnovation.fr/Le-Challenge-du-Berger).
+
+## Trouver des signatures
+Le document signatures.md recence des signatures que nous pouvons utiliser pour participer. 
+
+## Contribuer
+N'hésitez pas contribuer en ajoutant vos signatures ou à ajouter vos scores dans scores.md
