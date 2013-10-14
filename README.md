@@ -18,4 +18,4 @@ Pour plus d'information : [le billet du blog sur ce sujet](http://blog.thinkinno
 Le document Formules.md recence des formules que nous pouvons utiliser pour participer. 
 
 ## Contribuer
-N'hésitez pas contribuer en ajoutant vos signatures ou à ajouter vos scores dans scores.md
+N'hésitez pas à contribuer en ajoutant vos signatures ou à ajouter vos scores dans scores.md
