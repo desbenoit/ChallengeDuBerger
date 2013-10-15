@@ -9,7 +9,7 @@
 - De bon matin, 
 - Bon appétit,
 - Un excellent week-end,
-- 
+- Bon week-end
 
 ## Formules pour relations basiques 
 - En vous/te souhaitant + formule de contexte, 
@@ -44,3 +44,4 @@
 - Peace, Unity, Love and Having fun,
 - Est-ce que tu viens pour les vacances ? (moi je n'ai pas changé d'adresse)
 - Keep calm, and be Happy
+- May the force be with you...
