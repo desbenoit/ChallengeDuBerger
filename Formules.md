@@ -1,4 +1,4 @@
-# Les formules utilisable 
+# Les formules utilisables 
 
 ## Formules de contexte
 - Bonne matinée, 
@@ -7,18 +7,19 @@
 - Belle journée, 
 - Bonne soirée, 
 - De bon matin, 
-- Bon appétit
+- Bon appétit,
+- Un excellent week-end,
 
 ## Formules pour relations basique 
 - En vous/te souhaitant + formule de contexte, 
-- Bien à vous, 
-- A bientôt,
-- Merci par avance.
+- Bien à vous/toi, 
+- À bientôt,
+- Au plaisir,
+- 
 
-## Formules pour relations cordiale
+## Formules pour relations cordiales
 - Formule de contexte, 
 - Bien à toi, 
-- À très vite.
 
 ## Formules pour relation amicale
 - Formule de contexte + Mélioratif (exemple : Belle journée à toi) 
@@ -27,3 +28,10 @@
 - Qu'est ce que tu bois ?
 
 
+## Formules pour relations cordiales
+- Formule de contexte, 
+- Bien à toi, 
+
+
+## Formules non-sens pour instant humoristique
+- Salutationnitudes, 
