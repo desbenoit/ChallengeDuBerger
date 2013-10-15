@@ -35,3 +35,4 @@
 
 ## Formules non-sens pour instant humoristique
 - Salutationnitudes, 
+- Peace, Unity, Love and Having fun,
