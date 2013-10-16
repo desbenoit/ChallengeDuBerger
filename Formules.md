@@ -18,12 +18,12 @@
 - Au plaisir,
 - @+
 - À disposition,
-- 
+
 
 ## Formules pour relations cordiales
 - Formule de contexte, 
 - Bien à toi, 
-- 
+
 
 ## Formules pour relation amicale
 - Formule de contexte + Mélioratif (exemple : Belle journée à toi) 
@@ -31,12 +31,7 @@
 - Tiens toi fort !
 - Qu'est ce que tu bois ?
 - On se voit bientôt ?
-- 
-
-
-## Formules pour relations cordiales
-- Formule de contexte, 
-- Bien à toi, 
+- Prends soin de toi (traduction du "take care")
 
 
 ## Formules non-sens pour instant humoristique
@@ -45,3 +40,5 @@
 - Est-ce que tu viens pour les vacances ? (moi je n'ai pas changé d'adresse)
 - Keep calm, and be Happy
 - May the force be with you...
+- Et merci pour le poisson !
+- Mets ton cache-nez, l'hiver arrive
