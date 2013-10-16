@@ -49,3 +49,10 @@
 - May the force be with you...
 - Et merci pour le poisson !
 - Mets ton cache-nez, l'hiver arrive.
+- Fin de fax
+
+
+## Formules non-sens pour montrer son agacement
+- ASAPement vôtre
+- Recevez nos remarques les plus justifiées
+- Écrit de mon Vertu platinium Gold par ma secrétaire
