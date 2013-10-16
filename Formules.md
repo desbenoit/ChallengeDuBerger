@@ -50,6 +50,8 @@
 - Et merci pour le poisson !
 - Mets ton cache-nez, l'hiver arrive.
 - Fin de fax
+- Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibiités néanmoins_
+- Que des vestales déposent sous tes pieds des pétales de roses
 
 
 ## Formules non-sens pour montrer son agacement
