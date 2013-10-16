@@ -8,29 +8,36 @@
 - Bonne soirée, 
 - De bon matin, 
 - Bon appétit,
+- Un très bon week-end à tous les +nombre de membres de la famille, 
 - Un excellent week-end,
-- Bon week-end
+- Bon week-end,
+- Beau jour de pluie, 
+- Belle journée ensoleillée.
 
 ## Formules pour relations basiques 
 - En vous/te souhaitant + formule de contexte, 
 - Bien à vous/toi, 
 - À bientôt,
 - Au plaisir,
-- @+
-- À disposition,
+- Grand Merci, 
+- À disposition.
 
 
 ## Formules pour relations cordiales
 - Formule de contexte, 
 - Bien à toi, 
+- @+.
 
 
 ## Formules pour relation amicale
+- Le bon jour, 
+- Bon jour Ami, 
 - Formule de contexte + Mélioratif (exemple : Belle journée à toi) 
 - En amitié, 
 - Tiens toi fort !
 - Qu'est ce que tu bois ?
 - On se voit bientôt ?
+- Bises, 
 - Prends soin de toi (traduction du "take care")
 
 
@@ -41,4 +48,4 @@
 - Keep calm, and be Happy
 - May the force be with you...
 - Et merci pour le poisson !
-- Mets ton cache-nez, l'hiver arrive
+- Mets ton cache-nez, l'hiver arrive.
