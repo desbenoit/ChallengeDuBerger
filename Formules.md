@@ -14,6 +14,8 @@
 - Beau jour de pluie, 
 - Belle journée ensoleillée.
 
+Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
+
 ## Formules pour relations basiques 
 - En vous/te souhaitant + formule de contexte, 
 - Bien à vous/toi, 
