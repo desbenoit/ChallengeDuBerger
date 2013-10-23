@@ -45,6 +45,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 
 ## Formules non-sens pour instant humoristique
 - Salutationnitudes, 
+- Envoyé de mon Thunderbird avec mes petits doigts,
 - Peace, Unity, Love and Having fun,
 - Keep calm, and be Happy,
 - May the force be with you...
@@ -78,3 +79,4 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - C'était la dernère séance et le rideau sur l'écran est tombé, 
 - I believe I can fly, I believe I can touch the sky,
 - Le petit bonhomme en mousse.
+- C'était juste une mise au point sur les plus belles images du site,
