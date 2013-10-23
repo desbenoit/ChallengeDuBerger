@@ -41,6 +41,10 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - On se voit bientôt ?
 - Bises, 
 - Prends soin de toi (traduction du "take care")
+- Gros poutous
+- A peluche :)
+- Hello :)
+- Coucou
 
 
 ## Formules non-sens pour instant humoristique
