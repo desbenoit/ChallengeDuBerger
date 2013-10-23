@@ -61,3 +61,22 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - ASAPement vôtre
 - Recevez nos remarques les plus justifiées
 - Écrit de mon Vertu platinium Gold par ma secrétaire
+- 
+
+
+## Formules émotionnelles :
+- Passez une merveilleuse journée !
+- Have a wonderful day! (in this wonderful world)
+- Le ciel est sublime
+- Jolie coiffure aujourd'hui !
+- Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
+
+
+## Formules provoquant l'air de la chanson dans la tête :
+- Don't worry, be happy
+- Let it be
+- Oh Happy Day
+- C'était la dernère séance et le rideau sur l'écran est tombé.
+- I believe I can fly, I believe I can touch the sky
+- Le petit bonhomme en mousse
+- 
