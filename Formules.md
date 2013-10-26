@@ -12,8 +12,8 @@
 - Un excellent week-end,
 - Bon week-end,
 - Beau jour de pluie, 
-- Belle journée ensoleillée.
-- En te souhaitant de bonne vacances,
+- Belle journée ensoleillée,
+- En te souhaitant de bonne vacances.
 
 Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
 
@@ -22,9 +22,10 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Bien à vous/toi, 
 - À bientôt,
 - Au plaisir,
-- Grand Merci, 
-- À disposition.
-- Merci à toi,
+- Grand merci, 
+- Mille mercis,
+- À disposition,
+- Merci à toi.
 
 
 ## Formules pour relations cordiales
@@ -36,17 +37,17 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 ## Formules pour relation amicale
 - Le bon jour, 
 - Bon jour Ami, 
-- Formule de contexte + Mélioratif (exemple : Belle journée à toi) 
+- Formule de contexte + Mélioratif (exemple : Belle journée à toi),
 - En amitié, 
-- Tiens toi fort !
-- Qu'est ce que tu bois ?
-- On se voit bientôt ?
+- Tiens toi fort !,
+- Qu'est-ce que tu bois ?,
+- On se voit bientôt ?,
 - Bises, 
-- Prends soin de toi (traduction du "take care")
-- Gros poutous
-- A peluche :)
-- Hello :)
-- Coucou
+- Prends soin de toi (traduction du "take care"),
+- Gros poutous,
+- A peluche :),
+- Hello :),
+- Coucou.
 
 
 ## Formules non-sens pour instant humoristique
@@ -54,27 +55,27 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Envoyé de mon Thunderbird avec mes petits doigts,
 - Peace, Unity, Love and Having fun,
 - Keep calm, and be Happy,
-- May the force be with you...
-- Et merci pour le poisson !
+- May the force be with you...,
+- Salut et encore merci pour le poisson,
 - Mets ton cache-nez, l'hiver arrive,
 - Fin de fax,
-- Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibiités néanmoins_
+- Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P, _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibiités néanmoins_
 - Que des vestales déposent sous tes pieds des pétales de roses,
-- Que votre temps soit doux,
+- Que votre temps soit doux.
 
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
 - Recevez nos remarques les plus justifiées,
-- Écrit de mon Vertu platinium Gold par ma secrétaire,
+- Écrit de mon Vertu platinium Gold par ma secrétaire.
 
 
 ## Formules émotionnelles :
-- Passez une merveilleuse journée !
+- Passez une merveilleuse journée !,
 - Have a wonderful day! (in this wonderful world), 
 - Le ciel est sublime,
-- Jolie coiffure aujourd'hui !
-- Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
+- Jolie coiffure aujourd'hui !,
+- Toujours aussi belle !. _note : (la vie ? la destinataire ?)_
 
 
 ## Formules provoquant l'air de la chanson dans la tête :
@@ -84,5 +85,5 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Est-ce que tu viens pour les vacances ? (moi je n'ai pas changé d'adresse),
 - C'était la dernère séance et le rideau sur l'écran est tombé, 
 - I believe I can fly, I believe I can touch the sky,
-- Le petit bonhomme en mousse.
-- C'était juste une mise au point sur les plus belles images du site,
+- Le petit bonhomme en mousse,
+- C'était juste une mise au point sur les plus belles images du site.
