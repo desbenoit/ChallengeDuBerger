@@ -13,7 +13,7 @@
 - Bon week-end,
 - Beau jour de pluie, 
 - Belle journée ensoleillée,
-- En te souhaitant de bonne vacances.
+- En te souhaitant de bonnes vacances.
 
 Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
 
@@ -44,8 +44,9 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - On se voit bientôt ?,
 - Bises, 
 - Prends soin de toi (traduction du "take care"),
+- Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
-- A peluche :),
+- À peluche :),
 - Hello :),
 - Coucou.
 
@@ -67,7 +68,10 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
 - Recevez nos remarques les plus justifiées,
-- Écrit de mon Vertu platinium Gold par ma secrétaire.
+- Écrit de mon Vertu platinium Gold par ma secrétaire
+- Pensez à mettre les accents sur les majuscules, sinon le BISCUIT EST SALE.
+- Astuce multi-touch : une fois arrivé à l'instant désiré, levez-le doigt _note : les maîtresses adorent. Toutes._
+- Vous n'imaginez pas tout ce que -NOM de votre entreprise- peut faire pour vous
 
 
 ## Formules émotionnelles :
@@ -76,6 +80,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Le ciel est sublime,
 - Jolie coiffure aujourd'hui !,
 - Toujours aussi belle !. _note : (la vie ? la destinataire ?)_
+- Pommement votre, _note : pour un Apple maniac_
 
 
 ## Formules provoquant l'air de la chanson dans la tête :
@@ -86,4 +91,5 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - C'était la dernère séance et le rideau sur l'écran est tombé, 
 - I believe I can fly, I believe I can touch the sky,
 - Le petit bonhomme en mousse,
+- Dance ♪, Soca dance ♫, Soca dance ♪
 - C'était juste une mise au point sur les plus belles images du site.
