@@ -49,6 +49,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - À peluche :),
 - Hello :),
 - Coucou.
+- Que la force soit avec toi !
 
 
 ## Formules non-sens pour instant humoristique
