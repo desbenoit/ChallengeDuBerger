@@ -43,6 +43,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ?,
 - Bises, 
+- Que ta journée soit belle,
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
