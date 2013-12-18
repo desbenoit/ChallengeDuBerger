@@ -65,7 +65,8 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Fin de fax,
 - Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P, _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibiités néanmoins_
 - Que des vestales déposent sous tes pieds des pétales de roses,
-- Que votre temps soit doux.
+- Que votre temps soit doux,
+- À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année.
 
 
 ## Formules non-sens pour montrer son agacement
