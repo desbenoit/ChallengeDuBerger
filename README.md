@@ -15,7 +15,7 @@ Le principe est de bannir toute uniformité et automatisation de nos signatures 
 Pour plus d'information : [le billet du blog sur ce sujet](http://blog.thinkinnovation.fr/Le-Challenge-du-Berger).
 
 ## Trouver des formules
-Le document Formules.md recence des formules que nous pouvons utiliser pour participer. 
+Le document Formules.md recense des formules que nous pouvons utiliser pour participer. 
 
 ## Contribuer
 N'hésitez pas à contribuer en ajoutant vos signatures ou à ajouter vos scores dans scores.md
