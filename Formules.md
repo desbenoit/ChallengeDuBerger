@@ -8,6 +8,9 @@
 - Bonne soirée, 
 - De bon matin, 
 - Bon appétit,
+- Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
+- Bon début de semaine,
+- Excellente fin de semaine,
 - Un très bon week-end à tous les +nombre de membres de la famille, 
 - Un excellent week-end,
 - Bon week-end,
@@ -48,6 +51,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
+- Plein de choubidous,
 - À peluche :),
 - Hello :),
 - Coucou.
@@ -62,6 +66,7 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 - Keep calm, and be Happy,
 - May the force be with you...,
 - Salut et encore merci pour le poisson,
+- Paix et félicité,
 - Mets ton cache-nez, l'hiver arrive,
 - Fin de fax,
 - Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P, _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibiités néanmoins_
