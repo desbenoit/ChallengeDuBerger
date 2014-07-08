@@ -19,7 +19,10 @@
 - Solleillement à toi,
 - En te souhaitant de bonnes vacances.
 
-Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
+Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion 
+
+Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé. 
+Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie. 
 
 ## Formules pour relations basiques 
 - En vous/te souhaitant + formule de contexte, 
