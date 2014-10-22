@@ -101,7 +101,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Let it be,
 - Oh Happy Day,
 - Est-ce que tu viens pour les vacances ? (moi je n'ai pas changé d'adresse),
-- C'était la dernère séance et le rideau sur l'écran est tombé, 
+- C'était la dernière séance et le rideau sur l'écran est tombé, 
 - I believe I can fly, I believe I can touch the sky,
 - Le petit bonhomme en mousse,
 - Dance ♪, Soca dance ♫, Soca dance ♪
