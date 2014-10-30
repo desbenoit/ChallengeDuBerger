@@ -94,6 +94,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Jolie coiffure aujourd'hui !,
 - Toujours aussi belle !. _note : (la vie ? la destinataire ?)_
 - Pommement votre, _note : pour un Apple maniac_
+- Va bien t'faire enculer.
 
 
 ## Formules provoquant l'air de la chanson dans la tête :
