@@ -76,7 +76,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Que des vestales déposent sous tes pieds des pétales de roses,
 - Que votre temps soit doux,
 - À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année._
-- Avec toute ma gourmandire. _note : signature vue dans le mail d'un traiteur
+- Avec toute ma gourmandire. _note : signature vue dans le mail d'un traiteur_
 
 
 ## Formules non-sens pour montrer son agacement
@@ -93,9 +93,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Have a wonderful day! (in this wonderful world), 
 - Le ciel est sublime,
 - Jolie coiffure aujourd'hui !,
-- Toujours aussi belle !. _note : (la vie ? la destinataire ?)_
+- Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
 - Pommement votre, _note : pour un Apple maniac_
-- Va bien t'faire enculer.
+- Va bien t'faire encule,  _note : Quand l'émotion n'est vraiment plus gérée_
 
 
 ## Formules provoquant l'air de la chanson dans la tête :
