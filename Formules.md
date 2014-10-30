@@ -19,7 +19,10 @@
 - Solleillement à toi,
 - En te souhaitant de bonnes vacances.
 
-Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion 
+Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
+
+Pour des formules dans d'autres langues, vous pouvez utiliser les ressources ci-dessous :
+- [List of Letter Closings and E-mail Goodbyes](https://suite.io/1aqd2m3) (anglais)
 
 Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé. 
 Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie. 
