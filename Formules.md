@@ -66,6 +66,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre, 
+- Fibrociment,
+- Survêtement,
+- Ameublement,
 - Salutationnitudes, 
 - Envoyé de mon Thunderbird avec mes petits doigts,
 - Peace, Unity, Love and Having fun,
@@ -80,7 +83,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Que votre temps soit doux,
 - À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année._
 - Avec toute ma gourmandire. _note : signature vue dans le mail d'un traiteur_
-
+- Hop, (Achille Talon style)
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
