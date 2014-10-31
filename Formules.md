@@ -111,3 +111,8 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Le petit bonhomme en mousse,
 - Dance ♪, Soca dance ♫, Soca dance ♪
 - C'était juste une mise au point sur les plus belles images du site.
+
+## Formules tirée de films/livres :
+- Et joyeux Noël à la patate nouvelle ! _Toy Story_
+- Vers l’infini et au-delà ! _Toy Story_
+- Hasta la vista, baby. _Terminator 2: Judgment Day_
