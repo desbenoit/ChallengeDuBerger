@@ -119,3 +119,4 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
 - Vers l’infini et au-delà ! _Toy Story_
 - Hasta la vista, baby. _Terminator 2: Judgment Day_
+- May 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
