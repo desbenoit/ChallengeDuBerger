@@ -16,7 +16,7 @@
 - Bon week-end,
 - Beau jour de pluie, 
 - Belle journée ensoleillée,
-- Solleillement à toi,
+- Soleillement à toi,
 - En te souhaitant de bonnes vacances.
 
 Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
