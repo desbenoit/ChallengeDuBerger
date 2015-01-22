@@ -114,6 +114,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Le petit bonhomme en mousse,
 - Dance ♪, Soca dance ♫, Soca dance ♪
 - C'était juste une mise au point sur les plus belles images du site.
+- Comme les Rois Mages ♪ en Galilée ♫ suivaient des yeux l'étoile du Berger ♪ ♪
 
 ## Formules tirée de films/livres :
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
