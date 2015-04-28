@@ -84,6 +84,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année._
 - Avec toute ma gourmandise. _note : signature vue dans le mail d'un traiteur_
 - Hop, (Achille Talon style)
+- Chocolatinement vôtre, _note : dans le Sud Ouest, de préférence le matin_
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
