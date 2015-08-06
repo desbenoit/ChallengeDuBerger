@@ -57,7 +57,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
 - Plein de choubidous,
-- À p'luche :), _note: déformation mignone de A+
+- À p'luche :), _note: déformation mignone de A+_
 - Hello :),
 - Coucou.
 - Que la force soit avec toi !
