@@ -37,13 +37,11 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - À disposition,
 - Merci à toi.
 
-
 ## Formules pour relations cordiales
 - Formule de contexte, 
 - Bien à toi, 
 - En t'espérant en forme, 
 - @+.
-
 
 ## Formules pour relation amicale
 - Le bon jour, 
@@ -59,11 +57,10 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
 - Plein de choubidous,
-- À peluche :),
+- À p'luche :), _note: déformation mignone de A+
 - Hello :),
 - Coucou.
 - Que la force soit avec toi !
-
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre, 
@@ -96,7 +93,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Astuce multi-touch : une fois arrivé à l'instant désiré, levez-le doigt _note : les maîtresses adorent. Toutes._
 - Vous n'imaginez pas tout ce que -NOM de votre entreprise- peut faire pour vous
 
-
 ## Formules émotionnelles :
 - Passez une merveilleuse journée !,
 - Have a wonderful day! (in this wonderful world), 
@@ -105,7 +101,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
 - Pommement votre, _note : pour un Apple maniac_
 - Va bien t'faire encule,  _note : Quand l'émotion n'est vraiment plus gérée_
-
 
 ## Formules provoquant l'air de la chanson dans la tête :
 - Don't worry, be happy,
