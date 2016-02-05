@@ -13,6 +13,7 @@
 - Bon week-end,
 - Beau jour de pluie, 
 - Belle journée ensoleillée.
+- Bon weekend (sans trait d'union)
 
 Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
 
