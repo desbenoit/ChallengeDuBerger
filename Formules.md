@@ -11,8 +11,8 @@
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
 - Bon début de semaine,
 - Excellente fin de semaine,
-- Un très bon week-end à tous les +nombre de membres de la famille, 
-- Un excellent week-end,
+- Un très bon weekend à tous les +nombre de membres de la famille, 
+- Un excellent weekend,
 - Bon week-end,
 - Beau jour de pluie, 
 - Belle journée ensoleillée,
