@@ -52,6 +52,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ?,
 - Bises, 
+- Des bises ensoleillées,
+- Des bises pluvieuses mais chaleureuses,
+- Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
@@ -61,6 +64,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Hello :),
 - Coucou.
 - Que la force soit avec toi !
+- Today is a good day
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre, 
