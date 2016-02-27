@@ -91,6 +91,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
+- Procéduralement vôtre,
 - Recevez nos remarques les plus justifiées,
 - Écrit de mon Vertu platinium Gold par ma secrétaire
 - Pensez à mettre les accents sur les majuscules, sinon le BISCUIT EST SALE.
