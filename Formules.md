@@ -11,8 +11,16 @@
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
 - Bon début de semaine,
 - Excellente fin de semaine,
+<<<<<<< HEAD
 - Un très bon week-end à tous les +nombre de membres de la famille,
 - Un excellent week-end,
+||||||| merged common ancestors
+- Un très bon week-end à tous les +nombre de membres de la famille,
+- Un excellent week-end,
+=======
+- Un très bon weekend à tous les +nombre de membres de la famille,
+- Un excellent weekend,
+>>>>>>> upstream/master
 - Bon week-end,
 - Beau jour de pluie,
 - Belle journée ensoleillée,
@@ -37,12 +45,19 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - À disposition,
 - Merci à toi.
 
-
 ## Formules pour relations cordiales
+<<<<<<< HEAD
 - Formule de contexte,
 - Bien à toi,
+||||||| merged common ancestors
+- Formule de contexte,
+- Bien à toi,
+=======
+- Formule de contexte,
+- Bien à toi,
+- En t'espérant en forme,
+>>>>>>> upstream/master
 - @+.
-
 
 ## Formules pour relation amicale
 - Le bon jour,
@@ -52,17 +67,26 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Tiens toi fort !,
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ?,
+<<<<<<< HEAD
 - Bises,
+||||||| merged common ancestors
+- Bises,
+=======
+- Bises,
+- Des bises ensoleillées,
+- Des bises pluvieuses mais chaleureuses,
+- Moulte bises,
+>>>>>>> upstream/master
 - Que ta journée soit belle,
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
 - Gros poutous,
 - Plein de choubidous,
-- À peluche :),
+- À p'luche :), _note: déformation mignone de A+_
 - Hello :),
 - Coucou.
 - Que la force soit avec toi !
-
+- Today is a good day
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre,
@@ -85,15 +109,16 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Avec toute ma gourmandise. _note : signature vue dans le mail d'un traiteur_
 - Hop, (Achille Talon style)
 - Chocolatinement vôtre, _note : dans le Sud Ouest, de préférence le matin_
+- En vous la souhaitant bien bonne,
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
+- Procéduralement vôtre,
 - Recevez nos remarques les plus justifiées,
 - Écrit de mon Vertu platinium Gold par ma secrétaire
 - Pensez à mettre les accents sur les majuscules, sinon le BISCUIT EST SALE.
 - Astuce multi-touch : une fois arrivé à l'instant désiré, levez-le doigt _note : les maîtresses adorent. Toutes._
 - Vous n'imaginez pas tout ce que -NOM de votre entreprise- peut faire pour vous
-
 
 ## Formules émotionnelles :
 - Passez une merveilleuse journée !,
@@ -102,8 +127,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Jolie coiffure aujourd'hui !,
 - Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
 - Pommement votre, _note : pour un Apple maniac_
-- Va bien t'faire encule,  _note : Quand l'émotion n'est vraiment plus gérée_
-
 
 ## Formules provoquant l'air de la chanson dans la tête :
 - Don't worry, be happy,
@@ -121,7 +144,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
 - Vers l’infini et au-delà ! _Toy Story_
 - Hasta la vista, baby. _Terminator 2: Judgment Day_
-- May 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
+- May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
