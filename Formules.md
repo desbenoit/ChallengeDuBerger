@@ -1,20 +1,28 @@
-# Les formules utilisables 
+# Les formules utilisables
 
 ## Formules de contexte
-- Bonne matinée, 
+- Bonne matinée,
 - Belle matinée
-- Bonne journée, 
-- Belle journée, 
-- Bonne soirée, 
-- De bon matin, 
+- Bonne journée,
+- Belle journée,
+- Bonne soirée,
+- De bon matin,
 - Bon appétit,
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
 - Bon début de semaine,
 - Excellente fin de semaine,
-- Un très bon weekend à tous les +nombre de membres de la famille, 
+<<<<<<< HEAD
+- Un très bon week-end à tous les +nombre de membres de la famille,
+- Un excellent week-end,
+||||||| merged common ancestors
+- Un très bon week-end à tous les +nombre de membres de la famille,
+- Un excellent week-end,
+=======
+- Un très bon weekend à tous les +nombre de membres de la famille,
 - Un excellent weekend,
+>>>>>>> upstream/master
 - Bon week-end,
-- Beau jour de pluie, 
+- Beau jour de pluie,
 - Belle journée ensoleillée,
 - Soleillement à toi,
 - En te souhaitant de bonnes vacances.
@@ -24,37 +32,51 @@ Mais aussi faire l'effort d'utiliser les formules classiques dans la langue mate
 Pour des formules dans d'autres langues, vous pouvez utiliser les ressources ci-dessous :
 - [List of Letter Closings and E-mail Goodbyes](https://suite.io/1aqd2m3) (anglais)
 
-Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé. 
-Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie. 
+Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé.
+Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie.
 
-## Formules pour relations basiques 
-- En vous/te souhaitant + formule de contexte, 
-- Bien à vous/toi, 
+## Formules pour relations basiques
+- En vous/te souhaitant + formule de contexte,
+- Bien à vous/toi,
 - À bientôt,
 - Au plaisir,
-- Grand merci, 
+- Grand merci,
 - Mille mercis,
 - À disposition,
 - Merci à toi.
 
 ## Formules pour relations cordiales
-- Formule de contexte, 
-- Bien à toi, 
-- En t'espérant en forme, 
+<<<<<<< HEAD
+- Formule de contexte,
+- Bien à toi,
+||||||| merged common ancestors
+- Formule de contexte,
+- Bien à toi,
+=======
+- Formule de contexte,
+- Bien à toi,
+- En t'espérant en forme,
+>>>>>>> upstream/master
 - @+.
 
 ## Formules pour relation amicale
-- Le bon jour, 
-- Bon jour Ami, 
+- Le bon jour,
+- Bon jour Ami,
 - Formule de contexte + Mélioratif (exemple : Belle journée à toi),
-- En amitié, 
+- En amitié,
 - Tiens toi fort !,
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ?,
-- Bises, 
+<<<<<<< HEAD
+- Bises,
+||||||| merged common ancestors
+- Bises,
+=======
+- Bises,
 - Des bises ensoleillées,
 - Des bises pluvieuses mais chaleureuses,
 - Moulte bises,
+>>>>>>> upstream/master
 - Que ta journée soit belle,
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
@@ -67,11 +89,11 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Today is a good day
 
 ## Formules non-sens pour instant humoristique
-- Licornement vôtre, 
+- Licornement vôtre,
 - Fibrociment,
 - Survêtement,
 - Ameublement,
-- Salutationnitudes, 
+- Salutationnitudes,
 - Envoyé de mon Thunderbird avec mes petits doigts,
 - Peace, Unity, Love and Having fun,
 - Keep calm, and be Happy,
@@ -100,7 +122,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 
 ## Formules émotionnelles :
 - Passez une merveilleuse journée !,
-- Have a wonderful day! (in this wonderful world), 
+- Have a wonderful day! (in this wonderful world),
 - Le ciel est sublime,
 - Jolie coiffure aujourd'hui !,
 - Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
@@ -111,7 +133,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Let it be,
 - Oh Happy Day,
 - Est-ce que tu viens pour les vacances ? (moi je n'ai pas changé d'adresse),
-- C'était la dernière séance et le rideau sur l'écran est tombé, 
+- C'était la dernière séance et le rideau sur l'écran est tombé,
 - I believe I can fly, I believe I can touch the sky,
 - Le petit bonhomme en mousse,
 - Dance ♪, Soca dance ♫, Soca dance ♪
@@ -123,3 +145,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Vers l’infini et au-delà ! _Toy Story_
 - Hasta la vista, baby. _Terminator 2: Judgment Day_
 - May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
+
+## Formules adaptées au contexte de l'interlocuteur
+- En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
