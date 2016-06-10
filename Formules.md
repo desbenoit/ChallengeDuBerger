@@ -11,16 +11,12 @@
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
 - Bon début de semaine,
 - Excellente fin de semaine,
-<<<<<<< HEAD
 - Un très bon week-end à tous les +nombre de membres de la famille,
 - Un excellent week-end,
-||||||| merged common ancestors
 - Un très bon week-end à tous les +nombre de membres de la famille,
 - Un excellent week-end,
-=======
 - Un très bon weekend à tous les +nombre de membres de la famille,
 - Un excellent weekend,
->>>>>>> upstream/master
 - Bon week-end,
 - Beau jour de pluie,
 - Belle journée ensoleillée,
@@ -46,17 +42,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Merci à toi.
 
 ## Formules pour relations cordiales
-<<<<<<< HEAD
-- Formule de contexte,
-- Bien à toi,
-||||||| merged common ancestors
-- Formule de contexte,
-- Bien à toi,
-=======
 - Formule de contexte,
 - Bien à toi,
 - En t'espérant en forme,
->>>>>>> upstream/master
 - @+.
 
 ## Formules pour relation amicale
@@ -67,16 +55,10 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Tiens toi fort !,
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ?,
-<<<<<<< HEAD
-- Bises,
-||||||| merged common ancestors
-- Bises,
-=======
 - Bises,
 - Des bises ensoleillées,
 - Des bises pluvieuses mais chaleureuses,
 - Moulte bises,
->>>>>>> upstream/master
 - Que ta journée soit belle,
 - Prends soin de toi (traduction du "take care"),
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue (traduction du "you're welcome", souvent en réponse à "Merci")
