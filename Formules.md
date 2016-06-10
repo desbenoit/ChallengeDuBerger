@@ -39,7 +39,8 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Grand merci,
 - Mille mercis,
 - À disposition,
-- Merci à toi.
+- Merci à toi,
+- Sincèrement.
 
 ## Formules pour relations cordiales
 - Formule de contexte,
