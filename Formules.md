@@ -10,6 +10,7 @@
 - Bon appétit,
 - Bon {jour de la semaine}, _note : cette signature s'emploiera plutôt le matin_
 - Bon début de semaine,
+- Bon début d'après-midi,
 - Excellente fin de semaine,
 - Un très bon week-end à tous les +nombre de membres de la famille,
 - Un excellent week-end,
@@ -17,9 +18,15 @@
 - Beau jour de pluie,
 - Belle journée ensoleillée,
 - Soleillement à toi,
+- À toute à l'heure !
 - En te souhaitant de bonnes vacances.
 
 Mais aussi faire l'effort d'utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
+
+Souhaiter les jours fériés de son interlocuteur peut également faire plaisir, exemples :
+- Bonne Fête du Roi (le 27 avril aux Pays Bas)
+- Bon Jeûne (jour férié célébré dans le canton de Genève en Suisse le jeudi qui suit le premier dimanche de septembre)
+- etc.
 
 Pour des formules dans d'autres langues, vous pouvez utiliser les ressources ci-dessous :
 - [List of Letter Closings and E-mail Goodbyes](https://suite.io/1aqd2m3) (anglais)
@@ -93,6 +100,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
+- Très bon souper/bonne nuit noire, _à placer selon le contexte d'une réponse dans des horaires pas possibles_
 - Procéduralement vôtre,
 - Recevez nos remarques les plus justifiées,
 - Écrit de mon Vertu platinium Gold par ma secrétaire
@@ -119,12 +127,15 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Dance ♪, Soca dance ♫, Soca dance ♪
 - C'était juste une mise au point sur les plus belles images du site.
 - Comme les Rois Mages ♪ en Galilée ♫ suivaient des yeux l'étoile du Berger ♪ ♪
+- Amicalement vôtre,
 
 ## Formules tirée de films/livres :
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
 - Vers l’infini et au-delà ! _Toy Story_
 - Hasta la vista, baby. _Terminator 2: Judgment Day_
 - May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
+- Respect et Robustesse, _Astérix et Obélix, Mission Cléopâtre_
+- Longue vie et prospérité. _Star Trek (salut Vulcain)_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
