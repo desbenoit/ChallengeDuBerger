@@ -28,6 +28,9 @@ Souhaiter les jours fériés de son interlocuteur peut également faire plaisir,
 - Bon Jeûne (jour férié célébré dans le canton de Genève en Suisse le jeudi qui suit le premier dimanche de septembre)
 - etc.
 
+Pour des formules dans d'autres langues, vous pouvez utiliser les ressources ci-dessous :
+- [List of Letter Closings and E-mail Goodbyes](https://web.archive.org/web/20110903030811/http://www.suite101.com/content/list-of-letter-closings-and-salutations-a88155) (anglais)
+
 Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé.
 Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie.
 
