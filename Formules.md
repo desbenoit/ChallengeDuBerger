@@ -68,7 +68,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - À p'luche :), _note: déformation mignone de A+_
 - Hello :),
 - Coucou.
-- Que la force soit avec toi !
 - Today is a good day
 - Amicalement,
 
@@ -81,9 +80,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Envoyé de mon Thunderbird avec mes petits doigts,
 - Peace, Unity, Love and Having fun,
 - Keep calm, and be Happy,
-- May the force be with you...,
-- Salut et encore merci pour le poisson,
-- Paix et félicité,
 - Mets ton cache-nez, l'hiver arrive,
 - Fin de fax,
 - Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P, _note : cette signature s'emploie quand on parle d'accessibilité, attention aux susceptibilités néanmoins_
@@ -94,6 +90,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Hop, (Achille Talon style)
 - Chocolatinement vôtre, _note : dans le Sud Ouest, de préférence le matin_
 - En vous la souhaitant bien bonne,
+- May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
@@ -132,10 +129,13 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Et joyeux Noël à la patate nouvelle ! _Toy Story_
 - Vers l’infini et au-delà ! _Toy Story_
 - Hasta la vista, baby. _Terminator 2: Judgment Day_
-- May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
 - Respect et Robustesse, _Astérix et Obélix, Mission Cléopâtre_
 - Longue vie et prospérité. _Star Trek (salut Vulcain)_
 - Yippee-Ki-Yay, Motherfucker! _Die Hard_
+- Que la force soit avec toi ! _Star Wars_
+- May the force be with you... _Star Wars_
+- Salut et encore merci pour le poisson _Le Guide du voyageur galactique_
+- Paix et félicité _Demolition man_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
