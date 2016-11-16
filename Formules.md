@@ -87,10 +87,13 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Que votre temps soit doux,
 - À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année._
 - Avec toute ma gourmandise. _note : signature vue dans le mail d'un traiteur_
-- Hop, (Achille Talon style)
+- Hop, _note : Achille Talon style
 - Chocolatinement vôtre, _note : dans le Sud Ouest, de préférence le matin_
 - En vous la souhaitant bien bonne,
 - May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
+- Cours d'allemand,
+- Salut et encore merci pour le poisson,
+- Chalut et encore merci pour le poisson. _note : une variante de la précédente
 
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
