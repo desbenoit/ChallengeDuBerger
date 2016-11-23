@@ -102,7 +102,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Recevez nos remarques les plus justifiées,
 - Écrit de mon Vertu platinium Gold par ma secrétaire
 - Pensez à mettre les accents sur les majuscules, sinon le BISCUIT EST SALE.
-- Astuce multi-touch : une fois arrivé à l'instant désiré, levez-le doigt _note : les maîtresses adorent. Toutes._
+- Astuce multi-touch : une fois arrivé à l'instant désiré, levez le doigt _note : les maîtresses adorent. Toutes._
 - Vous n'imaginez pas tout ce que -NOM de votre entreprise- peut faire pour vous
 
 ## Formules émotionnelles :
