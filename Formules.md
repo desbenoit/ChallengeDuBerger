@@ -186,3 +186,6 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
+
+autres langues:
+https://web.archive.org/web/20110903030811/http://www.suite101.com/content/list-of-letter-closings-and-salutations-a88155
