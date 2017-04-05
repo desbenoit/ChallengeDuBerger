@@ -1,4 +1,5 @@
-# Les formules utilisables
+# Liste des formules de politesse françaises
+Toutes nos altern
 
 ## Formules de contexte
 - De bon matin,
@@ -62,11 +63,11 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Bien à vous/toi,
 - À bientôt,
 - Au plaisir,
-- Grand merci,
-- Mille mercis,
 - À disposition,
-- Merci à toi,
+- Merci à vous/toi,
 - Sincèrement,
+- Cordialement,
+- Grand merci.
 
 ## Formules pour relations cordiales
 - Voir formules de contexte (évoquées plus haut),
@@ -75,6 +76,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - N'hésitez pas à me contacter si besoin.
 - @+ _note : c'est un petit peu bâteau non ?_
 - Bon(ne) Anniversaire / fête à + [nom]
+- Mille mercis.
 
 ## Formules pour relation amicale
 - Le bon jour,
@@ -91,7 +93,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi _note1 : traduction du "take care" _note2: éventuellement ajouter "signé: Garnier"_,
-- Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue _note : traduction du "you're welcome", souvent en réponse à "Merci"_,
+- Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue _note : traduction du "you're welcome", souvent en réponse à "Merci",
 - Gros poutous,
 - Plein de choubidous,
 - À p'luche :), _note: déformation mignone de A+_
@@ -99,9 +101,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Coucou,
 - Today is a good day,
 - Amicalement,
-- Yep !.
+- Yep !
 - Bons baisers de + [lieu où l'on se trouve] _note: équivalent français de "From [] with love"_,
-- Courage / Merde pour tes partiels,
+- Courage / Merde pour + [événement à venir],
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre,
