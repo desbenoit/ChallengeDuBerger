@@ -1,9 +1,9 @@
 Challenge du Berger
 =================
-**Avec des gestes simples, il est possible d'améliorer efficacement nos relations humaines :**
+**Avec deux gestes simples, rendons nos emails plus humains**
 
-* Supprimons les formules de politesse qui sont ajoutées automatiquement à nos emails !
-* Bannissons le « cordialement » de nos emails !
+* Supprimons les formules de politesse qui sont ajoutées automatiquement à nos emails,
+* Bannissons le « cordialement » de nos emails.
 
 ### Supprimons les formules de politesse automatiques
 Le point de départ du *Challenge du Berger* est avant tout la suppression des formules de politesse automatiques incluses dans la signature de nos emails. Pour créer de vériables relations humaines, il faut que la formule de politesse retrouve sa fonction intiale : saluer respecteusement les destinataires. 
