@@ -1,8 +1,6 @@
 Challenge du Berger
 =================
-Améliorer nos relations humaines en variant nos signatures emails
-
-Avec des gestes simples, il est possible d'améliorer efficacement nos relations humaines : 
+**Avec des gestes simples, il est possible d'améliorer efficacement nos relations humaines :**
 
 * Supprimons les formules de politesse qui sont ajoutées automatiquement à nos emails !
 * Bannissons le « cordialement » de nos emails !
