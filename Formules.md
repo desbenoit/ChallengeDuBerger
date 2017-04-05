@@ -1,5 +1,5 @@
 # Liste des formules de politesse françaises
-Toutes nos alternatives au cordialement
+Toutes nos alternatives au cordialement : [à propos](https://github.com/desbenoit/ChallengeDuBerger/blob/master/README.md)
 
 ## Formules de contexte
 - De bon matin,
