@@ -6,7 +6,7 @@ Challenge du Berger
 * Bannissons le « cordialement » de nos emails.
 
 ### Supprimons les formules de politesse automatiques
-Le point de départ du *Challenge du Berger* est avant tout la suppression des formules de politesse automatiques incluses dans la signature de nos emails. Pour créer de vériables relations humaines, il faut que la formule de politesse retrouve sa fonction intiale : saluer respecteusement les destinataires. 
+Le point de départ du *Challenge du Berger* est avant tout la suppression des formules de politesse automatiques incluses dans la signature de nos emails. Pour créer de véritables relations humaines, il faut que la formule de politesse retrouve sa fonction initiale : saluer respectueusement les destinataires. 
 
 Il n'est pas forcément aisé de trouver des formules de politesse adaptées à ses correspondants. C'est pourquoi, avec les différents contributeurs de ce GitHub, nous vous avons préparé [une longue liste de formules de politesse](https://github.com/desbenoit/ChallengeDuBerger/blob/master/Formules.md) en précisant les contextes où elles sont utilisables. 
 
