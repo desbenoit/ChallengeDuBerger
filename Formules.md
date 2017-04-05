@@ -1,5 +1,5 @@
 # Liste des formules de politesse françaises
-Toutes nos altern
+Toutes nos alternatives au cordialement
 
 ## Formules de contexte
 - De bon matin,
