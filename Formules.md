@@ -188,6 +188,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Salut et encore merci / merci bien pour le poisson, _note : référence à H2G2, "The Hitchhiker's Guide to the Galaxy" (Le Guide du Voyageur Galactique)
 - Chalut et encore merci pour le poisson. _note : une variante de la précédente_
 - Paix et félicité _note : Demolition man_
+- Force et Honneur, _Gladiator_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
