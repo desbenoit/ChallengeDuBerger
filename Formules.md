@@ -8,7 +8,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - Courageux(se) Lundi matin / début de semaine / Dimanche soir / fin de week-end,
 - Bon réveil difficile _note : un Lundi matin_,
 - Revigorant Vendredi soir,
-- Bon Thursty Thursday,
+- Bon Thirsty Thursday,
 - Bon début de semaine,
 - Bonne fin de semaine,
 - Excellente fin de semaine,
