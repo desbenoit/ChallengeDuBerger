@@ -25,7 +25,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - Belle soirée,
 - Belle fin de soirée,
 - Bonne nuit blanche, j'apporte les croissants demain matin ! _note : en prévision d'une nuit de travail à finir d'urgence_,
-- Bon solstice, _note : quand le contexte s'y prête_,
+- Bon solstice _note : quand le contexte s'y prête_,
 - Bonne éclipse,
 - Un très bon week-end à tous les + [nombre de membres de la famille],
 - Un excellent week-end _note : à préférer au typique "Bon week-end"_,
@@ -33,6 +33,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - À toute à l'heure / tout de suite !
 - En te souhaitant de bonnes vacances,
 - Bon(ne) début / fin de vacances,
+- Bon shabbat _note : le vendredi quand l'interlocuteur est juif_
 
 ### Formules de contexte (météo)
 - Beau jour de pluie,
