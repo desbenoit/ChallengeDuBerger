@@ -104,6 +104,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Yep !
 - Bons baisers de + [lieu où l'on se trouve] _note: équivalent français de "From [] with love"_,
 - Courage / Merde pour + [événement à venir],
+- Des bises en quantité suffisante pour tout le monde soit heureux
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre,
