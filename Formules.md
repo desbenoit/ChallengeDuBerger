@@ -34,6 +34,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - En te souhaitant de bonnes vacances,
 - Bon(ne) début / fin de vacances,
 - Bon shabbat _note : le vendredi quand l'interlocuteur est juif_
+- Bonne vape ! _note : si le mail portait sur la cigarette électronique_
 
 ### Formules de contexte (météo)
 - Beau jour de pluie,
@@ -76,7 +77,8 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - En t'espérant en forme,
 - N'hésitez pas à me contacter si besoin.
 - @+ _note : c'est un petit peu bâteau non ?_
-- Bon(ne) Anniversaire / fête à + [nom]
+- Bon anniversaire à + [nom]
+- Bonne fête à + [nom]
 - Mille mercis.
 
 ## Formules pour relation amicale
@@ -88,12 +90,13 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ? / On fait quelque chose ensemble un de ces jours ?,
 - Bises,
-- Bisou baveux,
+- Bisous baveux,
 - Des bises ensoleillées,
 - Des bises pluvieuses mais chaleureuses,
 - Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi _note1 : traduction du "take care" _note2: éventuellement ajouter "signé: Garnier"_,
+- Parce que tu le vaux bien !
 - Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue _note : traduction du "you're welcome", souvent en réponse à "Merci",
 - Gros poutous,
 - Plein de choubidous,
@@ -117,7 +120,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Salutationnitudes,
 - Cordon bleu,
 - Envoyé de mon Thunderbird avec mes petits doigts,
-- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainé des fautes j'aurais une bonne excuse),
+- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainer des fautes j'aurais une bonne excuse),
 - Peace, Unity, Love, and Having fun,
 - Keep calm, and be Happy / drive safely,
 - Mets ton cache-nez, l'hiver arrive,
