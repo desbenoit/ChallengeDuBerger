@@ -1,4 +1,5 @@
-# Les formules utilisables
+# Liste des formules de politesse françaises
+Toutes nos alternatives au cordialement : [à propos](https://github.com/desbenoit/ChallengeDuBerger/blob/master/README.md)
 
 ## Formules de contexte
 - De bon matin,
@@ -7,7 +8,7 @@
 - Courageux(se) Lundi matin / début de semaine / Dimanche soir / fin de week-end,
 - Bon réveil difficile _note : un Lundi matin_,
 - Revigorant Vendredi soir,
-- Bon Thursty Thursday,
+- Bon Thirsty Thursday,
 - Bon début de semaine,
 - Bonne fin de semaine,
 - Excellente fin de semaine,
@@ -24,7 +25,7 @@
 - Belle soirée,
 - Belle fin de soirée,
 - Bonne nuit blanche, j'apporte les croissants demain matin ! _note : en prévision d'une nuit de travail à finir d'urgence_,
-- Bon solstice, _note : quand le contexte s'y prête_,
+- Bon solstice _note : quand le contexte s'y prête_,
 - Bonne éclipse,
 - Un très bon week-end à tous les + [nombre de membres de la famille],
 - Un excellent week-end _note : à préférer au typique "Bon week-end"_,
@@ -32,6 +33,8 @@
 - À toute à l'heure / tout de suite !
 - En te souhaitant de bonnes vacances,
 - Bon(ne) début / fin de vacances,
+- Bon shabbat _note : le vendredi quand l'interlocuteur est juif_
+- Bonne vape ! _note : si le mail portait sur la cigarette électronique_
 
 ### Formules de contexte (météo)
 - Beau jour de pluie,
@@ -51,6 +54,9 @@ Souhaiter les jours fériés de son interlocuteur peut également faire plaisir,
 - Bon Jeûne (jour férié célébré dans le canton de Genève en Suisse le jeudi qui suit le premier dimanche de septembre)
 - etc.
 
+Pour des formules dans d'autres langues, vous pouvez utiliser les ressources ci-dessous :
+- [List of Letter Closings and E-mail Goodbyes](https://web.archive.org/web/20110903030811/http://www.suite101.com/content/list-of-letter-closings-and-salutations-a88155) (anglais)
+
 Adapter la signature au fuseau horaire est très apprécié quand on travaille en décalé.
 Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte est de l'Australie.
 
@@ -59,11 +65,11 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Bien à vous/toi,
 - À bientôt,
 - Au plaisir,
-- Grand merci,
-- Mille mercis,
 - À disposition,
-- Merci à toi,
+- Merci à vous/toi,
 - Sincèrement,
+- Cordialement,
+- Grand merci.
 
 ## Formules pour relations cordiales
 - Voir formules de contexte (évoquées plus haut),
@@ -71,7 +77,9 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - En t'espérant en forme,
 - N'hésitez pas à me contacter si besoin.
 - @+ _note : c'est un petit peu bâteau non ?_
-- Bon(ne) Anniversaire / fête à + [nom]
+- Bon anniversaire à + [nom]
+- Bonne fête à + [nom]
+- Mille mercis.
 
 ## Formules pour relation amicale
 - Le bon jour,
@@ -82,13 +90,15 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ? / On fait quelque chose ensemble un de ces jours ?,
 - Bises,
-- Bisou baveux,
-- Des bises ensoleillées,
+- Bisous baveux,
+- Des bises ensoleillées, 
+- des bises radieuses,
 - Des bises pluvieuses mais chaleureuses,
 - Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi _note1 : traduction du "take care" _note2: éventuellement ajouter "signé: Garnier"_,
-- Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue _note : traduction du "you're welcome", souvent en réponse à "Merci"_,
+- Parce que tu le vaux bien !
+- Tu es / vous êtes le bienvenu -ou- Tu es la bienvenue _note : traduction du "you're welcome", souvent en réponse à "Merci",
 - Gros poutous,
 - Plein de choubidous,
 - À p'luche :), _note: déformation mignone de A+_
@@ -96,9 +106,10 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Coucou,
 - Today is a good day,
 - Amicalement,
-- Yep !.
+- Yep !
 - Bons baisers de + [lieu où l'on se trouve] _note: équivalent français de "From [] with love"_,
-- Courage / Merde pour tes partiels,
+- Courage / Merde pour + [événement à venir],
+- Des bises en quantité suffisante pour tout le monde soit heureux
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre,
@@ -110,7 +121,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Salutationnitudes,
 - Cordon bleu,
 - Envoyé de mon Thunderbird avec mes petits doigts,
-- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainé des fautes j'aurais une bonne excuse),
+- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainer des fautes j'aurais une bonne excuse),
 - Peace, Unity, Love, and Having fun,
 - Keep calm, and be Happy / drive safely,
 - Mets ton cache-nez, l'hiver arrive,
@@ -183,6 +194,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Salut et encore merci / merci bien pour le poisson, _note : référence à H2G2, "The Hitchhiker's Guide to the Galaxy" (Le Guide du Voyageur Galactique)
 - Chalut et encore merci pour le poisson. _note : une variante de la précédente_
 - Paix et félicité _note : Demolition man_
+- Force et Honneur, _Gladiator_
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_

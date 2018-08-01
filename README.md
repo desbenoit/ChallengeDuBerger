@@ -1,27 +1,31 @@
 Challenge du Berger
 =================
-Améliorer nos relations humaines en variant nos signatures emails
+**Avec deux gestes simples, rendons nos emails plus humains**
 
-## Sommaire
-1. Présentation
-2. Les formules de politesse
-3. Contribuer
+* Supprimons les formules de politesse qui sont ajoutées automatiquement à nos emails,
+* Bannissons le « cordialement » de nos emails.
 
-## Présentation
-Je milite pour la suppression du cordialement dans nos échanges par e-mail. En utilisant d’autres formules de politesses simples, je crois que l’on peut remplacer cette expression, chaleureuse à l’origine, devenue froide et laconique par une utilisation abusive.
-Initialement, le challenge du Berger était un « jeu » pour améliorer nos échanges par email. Au bout de trois ans, cette expression a pris un autre sens et est devenue un étendard de cet acte simple de la vie du tous les jours : supprimer sa signature automatique et adapter la formule de politesse à la conversation.
-Le principe est de bannir toute uniformité et automatisation de nos signatures emails et de les remplacer par une nouvelle formule adaptée à chaque personne, à chaque contexte. 
-Pour plus d'informations : voici [un billet explicatif du projet](http://notes.desbenoit.net/Supprimer-le-cordialement-trois).
+### Supprimons les formules de politesse automatiques
+Le point de départ du *Challenge du Berger* est avant tout la suppression des formules de politesse automatiques incluses dans la signature de nos emails. Pour créer de véritables relations humaines, il faut que la formule de politesse retrouve sa fonction initiale : saluer respectueusement les destinataires. 
 
-### Non, le cordialement n’est pas à bannir systématiquement
-Dans le cadre d’échanges fonctionnels et impersonnels, le cordialement reste une formule bateau que l’on peut utiliser sans réfléchir. La question de la suppression de cette formule de politesse se pose à partir du moment où vous souhaitez construire une relation durable avec votre destinataire.
-Le point de départ est avant tout la suppression de cette expression dans la signature automatique de nos emails.
+Il n'est pas forcément aisé de trouver des formules de politesse adaptées à ses correspondants. C'est pourquoi, avec les différents contributeurs de ce GitHub, nous vous avons préparé [une longue liste de formules de politesse](https://github.com/desbenoit/ChallengeDuBerger/blob/master/Formules.md) en précisant les contextes où elles sont utilisables. 
+
+### Bannissons le cordialement
+Le *cordialemement* était une formule réellement chaleureuse. Elle est aujourd'hui devenue froide et laconique de par son utilisation abusive. Utiliser cette expression est devenu un signe de manque de considération envers ses destinataires. 
+
+Le *cordialemement* peut toutefois toujours être une solution de facilité. Principalement dans le cadre d'échanges impersonnels d'où ne naitra aucune relation humaine. 
 
 ### Attention, les alternatives comportent des pièges
-Je ne signerai probablement jamais un email pommement votre ou encore électriquement votre à moins que l’échange comporte une forte dose de second degré ou de délire. En plus du cordialement, ce sont tous les néologismes avec le suffixe *-ment* qui sont à éviter. Sportivement, oenoliquement… ne viennent pas réellement améliorer la relation humaine. Parfois même, ces expressions à la mode dans les années 2000 peuvent donner un côté has-been à l’interlocuteur.
+Je ne signerai probablement jamais un email *pommement vôtre* ou encore *électriquement vôtre* à moins que l’échange ne comporte une forte dose de second degré voire de délire. Avec le *cordialement*, ce sont tous les néologismes avec le suffixe *-ment* qui sont à éviter. Les *sportivement*, *œnoliqueme*… ne viennent pas réellement améliorer la relation humaine. Bien qu'apportant une certaine légèreté, ces expressions à la mode dans les années 2000 peuvent donner un côté *has-been* à l’interlocuteur.
+
+### Historique
+Initialement, le challenge du Berger était un « jeu » pour améliorer nos échanges par email créé par Sébastien Desbenoit et inspiré Jean-Louis Berger-Bordes : le *Berger*. Quatre ans après une conférence *éclair* à Paris-Web et la sortie du [premier article](http://blog.thinkinnovation.fr/Le-Challenge-du-Berger) sur le sujet, cette expression a pris un nouveau sens et est devenue l'étendard de cet acte simple de la vie du tous les jours : supprimer sa signature automatique et adapter la formule de politesse à la conversation.
+
+Depuis juin 2016, l'initiative connaît un nouveau souffle avec sa mise en lumière par [BFM Business](https://notes.desbenoit.net/Faire-disparaitre-le-cordialement).
+
 
 ## Trouver des alternatives au cordialement
-Le document Formules.md recense des formules de politesse à combiner,  
+Le document [Formules.md](https://github.com/desbenoit/ChallengeDuBerger/blob/master/Formules.md) recense des formules de politesse à utiliser, combiner, améliorer pour vos emails. N'hésitez pas à contribuer en ajoutant vos signatures. 
 
-## Contribuer
-N'hésitez pas à contribuer en ajoutant vos signatures
+Les contributions sont totalement libres dans la limite du respect d'autrui. 
+
