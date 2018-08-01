@@ -33,6 +33,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - À toute à l'heure / tout de suite !
 - En te souhaitant de bonnes vacances,
 - Bon(ne) début / fin de vacances,
+- Bon séjour,
 - Bon shabbat _note : le vendredi quand l'interlocuteur est juif_
 - Bonne vape ! _note : si le mail portait sur la cigarette électronique_
 
@@ -63,7 +64,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 ## Formules pour relations basiques
 - En vous/te souhaitant + [formule de contexte],
 - Bien à vous/toi,
-- À bientôt,
+- À bientôt (!) _note: point d'exclamation facultatif,
 - Au plaisir,
 - À disposition,
 - Merci à vous/toi,
@@ -90,7 +91,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Qu'est-ce que tu bois ?,
 - On se voit bientôt ? / On fait quelque chose ensemble un de ces jours ?,
 - Bises,
-- Bisous baveux,
+- Bisou(s) baveux,
 - Des bises ensoleillées, 
 - des bises radieuses,
 - Des bises pluvieuses mais chaleureuses,
@@ -106,7 +107,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Coucou,
 - Today is a good day,
 - Amicalement,
-- Yep !
+- Yep / Yup / Yop !
 - Bons baisers de + [lieu où l'on se trouve] _note: équivalent français de "From [] with love"_,
 - Courage / Merde pour + [événement à venir],
 - Des bises en quantité suffisante pour tout le monde soit heureux
@@ -195,6 +196,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Chalut et encore merci pour le poisson. _note : une variante de la précédente_
 - Paix et félicité _note : Demolition man_
 - Force et Honneur, _Gladiator_
+- Dangereusement vôtre _note : James Bond, "A View to a Kill" (1985)
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
