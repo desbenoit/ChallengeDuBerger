@@ -93,7 +93,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Bises,
 - Bisou(s) baveux,
 - Des bises ensoleillées, 
-- des bises radieuses,
+- Des bises radieuses,
 - Des bises pluvieuses mais chaleureuses,
 - Moulte bises,
 - Que ta journée soit belle,
