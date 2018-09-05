@@ -95,6 +95,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Des bises ensoleillées, 
 - des bises radieuses,
 - Des bises pluvieuses mais chaleureuses,
+- Des bises sincères pour une matinée/après-midi heureuse,
 - Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi _note1 : traduction du "take care" _note2: éventuellement ajouter "signé: Garnier"_,
