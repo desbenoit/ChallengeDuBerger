@@ -99,6 +99,7 @@ Ex. : « Have a nice evening » lorsqul’il est 9:00 en France et 18:00 sur la 
 - Des bises ensoleillées, 
 - Des bises radieuses,
 - Des bises pluvieuses mais chaleureuses,
+- Des bises sincères pour une matinée/après-midi heureuse,
 - Moulte bises,
 - Que ta journée soit belle,
 - Prends soin de toi _note1 : traduction du « take care »; note2 : éventuellement ajouter « signé : Garnier »_,
@@ -138,9 +139,9 @@ Ex. : « Have a nice evening » lorsqul’il est 9:00 en France et 18:00 sur la 
 - Que des vestales déposent sous tes pieds des pétales de roses,
 - Que le Ciel inonde ton crâne d’oeuf de sa clarté magnifique,
 - Que votre temps soit doux,
-- À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus longs de l’année_
-- Avec toute ma gourmandise. _note : signature vue dans le mail d’un traiteur_,
-- And don’t forget, never trust a skinny cook, _note : vu sur une ardoise de menus dans une cafétaria_
+- À tout bientôt, et en route vers la nuit la plus longue de l’année. _note : cette signature est adaptée aux jours les plus long de l'année._
+- Avec toute ma gourmandise. _note : signature vue dans le mail d'un traiteur_,
+- And don't forget, never trust a skinny cook, _note : vu sur une ardoise de menus dans une cafétaria_
 - Hop, _note : Achille Talon style_
 - Chocolatinement vôtre, _note : dans le Sud Ouest, de préférence le matin_
 - En vous la souhaitant bien bonne,
