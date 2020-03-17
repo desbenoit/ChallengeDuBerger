@@ -66,6 +66,12 @@ Pour des formules dans d’autres langues, vous pouvez utiliser les ressources c
 Adapter la signature au fuseau horaire est très apprécié lorsque l’on travaille en décalé.
 Ex. : « Have a nice evening » lorsqul’il est 9:00 en France et 18:00 sur la côte Est Australienne.
 
+## Formules de contexte (crise sanitaire)
+
+- Confinement vôtre,
+- Au plaisir de vous revoir (de loin, et avec un masque),
+- Hydroalcooliquement,
+
 ## Formules pour relations basiques
 - En vous/te souhaitant + [formule de contexte],
 - Bien à vous/toi,
