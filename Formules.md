@@ -64,7 +64,7 @@ Pour des formules dans d’autres langues, vous pouvez utiliser les ressources c
 - [List of Letter Closings and E-mail Goodbyes](https://web.archive.org/web/20110903030811/http://www.suite101.com/content/list-of-letter-closings-and-salutations-a88155) (anglais)
 
 Adapter la signature au fuseau horaire est très apprécié lorsque l’on travaille en décalé.
-Ex. : « Have a nice evening » lorsqul’il est 9:00 en France et 18:00 sur la côte Est Australienne.
+Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la côte Est Australienne.
 
 ## Formules de contexte (crise sanitaire)
 
