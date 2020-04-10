@@ -71,6 +71,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - Confinement vôtre,
 - Au plaisir de vous revoir (de loin, et avec un masque),
 - Hydroalcooliquement,
+- En vous priant d'accepter mes salutations masquées, distanciées, mais distinguées,
 
 ## Formules pour relations basiques
 - En vous/te souhaitant + [formule de contexte],
