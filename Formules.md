@@ -142,6 +142,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - Pas besoin de maquillage aujourd’hui, il y a du brouillard,
 - Bon jour de brouillard, essayez de n’écraser personne cette fois ci,
 - Fin de fax,
+- OVER, _note : pour les radioamateurs, pilotes et autres habitués
 - Sortez en rang et sans bruit (sauf les sourds, ça va de soi) :P, _note : cette signature s’emploie lorsque l’on parle d’accessibilité, attention aux susceptibilités néanmoins_
 - Que des vestales déposent sous tes pieds des pétales de roses,
 - Que le Ciel inonde ton crâne d’oeuf de sa clarté magnifique,
