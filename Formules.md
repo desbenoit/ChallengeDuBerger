@@ -47,6 +47,7 @@ Toutes nos alternatives au cordialement : [à propos](https://github.com/desbeno
 - Opaque jour de brouillard,
 - Salutations enneigées,
 - Chaleureux premier jour d’Hiver.
+- Caniculement,
 
 Aussi faire l’effort d’utiliser les formules classiques dans la langue maternelle de son interlocuteur et non dans la langue de la discussion.
 De même, le fait de traduire les formules de ce document, si c’est possible, pourra aussi être apprécié.
@@ -180,6 +181,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - Toujours aussi belle ! _note : (la vie ? la destinataire ?)_
 - Pommement votre, _note : pour un Apple maniac_
 - Que la providence veille sur vous, pour votre bonheur, pour votre bien, et pour votre grandeur, Au revoir _note : Au revoir de Giscard d’Estaing_
+- Avec des wagons de bibis à partager,
 
 ## Formules provoquant l’air de la chanson dans la tête :
 - Don’t worry, be happy,
