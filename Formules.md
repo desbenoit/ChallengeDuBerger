@@ -172,6 +172,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - Et bonne journée ! _note : le point d’exclamation est crucial_,
 - En vous remerciant encore pour votre promptitude / professionalisme,
 - Je suis ravi(e) de travailler avec vous ... Sarcastiquement vôtre.
+- Je vous souhaite une journée aussi agréable que vous-même
 
 ## Formules émotionnelles :
 - Passez une merveilleuse journée !,
