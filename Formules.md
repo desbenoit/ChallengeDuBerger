@@ -124,7 +124,7 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 - Yep / Yup / Yop !
 - Bons baisers de + [lieu où l’on se trouve] _note : équivalent français de « From [] With Love », par exemple le film « From Paris With Love »_,
 - Courage / Merde pour + [événement à venir],
-- Des bises en quantité suffisante pour tout le monde soit heureux
+- Des bises en quantité suffisante pour que tout le monde soit heureux
 
 ## Formules non-sens pour instant humoristique
 - Licornement vôtre,
