@@ -163,16 +163,36 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 ## Formules non-sens pour montrer son agacement
 - ASAPement vôtre,
 - Très bon souper / bonne nuit noire, _à placer selon le contexte d’une réponse dans des horaires pas possibles_,
-- Procéduralement vôtre,
-- Recevez nos remarques les plus justifiées,
 - Écrit de mon Vertu platinium Gold par ma secrétaire,
 - Pensez à mettre les accents sur les majuscules, sinon le BISCUIT EST SALE,
 - Astuce multi-touch : une fois arrivé à l’instant désiré, levez-le doigt _note : les maîtresses adorent. Toutes._,
 - Vous n’imaginez pas tout ce que -NOM de votre entreprise- peut faire pour vous,
-- Et bonne journée ! _note : le point d’exclamation est crucial_,
 - En vous remerciant encore pour votre promptitude / professionalisme,
 - Je suis ravi(e) de travailler avec vous ... Sarcastiquement vôtre.
+
+## Formules pour montrer son agacement
+- Procéduralement vôtre,
+- Recevez nos remarques les plus justifiées,
+- Et bonne journée ! _note : le point d’exclamation est crucial_,
 - Je vous souhaite une journée aussi agréable que vous-même
+- Sentiments choisis  _Sans préciser lesquels_[^reddit_agacement]
+- En vous épargnant l'hypocrisie de salutations respectueuses[^reddit_agacement]
+- Je vois prie de croire, Madame Monsieur, à l'assurance de mes sentiments de circonstance.[^reddit_agacement]
+- Quant à mes salutations, elles resteront polies.[^reddit_agacement]
+- Veuillez agréer, Madame, Monsieur, l’expression de mon mécontentement le plus absolu.[^reddit_agacement]
+- Je tiens à porter à votre attention que mon mécontentement et à la hauteur de votre incompétence.[^reddit_agacement]
+- Dans l’espoir de pouvoir finaliser rapidement toute interaction future avec vous.[^reddit_agacement]
+- Très peu cordialement[^reddit_agacement]
+- Veuillez croire en l'assurance de mon exacte considération[^reddit_agacement]
+- Je vous souhaite de passer la journée que vous méritez.[^reddit_agacement]
+- Que votre journée soit aussi plaisante que notre interaction[^reddit_agacement]
+- "Cordialement." _Avec les guillemets et le point dedans._[^reddit_agacement]
+- Cdtm _Con de ta mère_[^reddit_agacement]
+- Au plaisir de ne plus jamais avoir affaire à vous[^reddit_agacement]
+- Ne pouvant de bonne foi vous souhaiter une bonne journée, je me contenterai de vous souhaiter une journée.[^reddit_agacement]
+- Avec toute la cordialité dont je me sens encore capable, je vous prie...[^reddit_agacement]
+- Veuillez agréer, Monsieur, l’expression virulente de mon mécontentement scandalisé.[^reddit_agacement]
+- Soyez assuré que mes salutations sont aussi sincères qu'elles sont respectueuses.[^reddit_agacement]
 
 ## Formules émotionnelles :
 - Passez une merveilleuse journée !,
@@ -219,5 +239,11 @@ Ex. : « Have a nice evening » lorsqu’il est 9:00 en France et 18:00 sur la c
 ## Formules adaptées au contexte de l’interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note : Après une naissance_
 
+## Citations
+- Tout le monde m’assure que vous n’êtes qu’une vieille pompe à merde et que vous ne méritez pas la moindre attention. Il va sans dire que je n’en crois rien et vous prie de croire en mes sentiments les meilleurs. _[Lettre de René Magritte à Richard Dupierreux](https://www.parisladouce.com/2012/12/art-la-lettre-de-rene-magritte-richard.html)_[^reddit_agacement]
+
 autres langues:
 https://web.archive.org/web/20110903030811/http://www.suite101.com/content/list-of-letter-closings-and-salutations-a88155
+
+[^reddit_agacement]:
+    Ces formules de non politesses viennent de ce fil reddit : [Je cherche des formules de politesses impolies pour finir un mail de réclamation](https://redd.it/zof244)
